@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/boaz1e/cost-tracker-app.git
+git clone https://github.com/Arunprabu22/Cost_Tracker_App.git
 ```
 
 2. Install dependencies:
